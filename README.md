@@ -4,4 +4,7 @@
 
 ## Follow Through
 
-- install dependencies using **_Strong emphasized text_**
+- install dependencies using **mix deps.get**
+- run compiler **iex -S mix**
+- run command `Identicon.main("any_string")`
+- generated identicon will be under `images/any_string.png`
