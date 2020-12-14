@@ -1,6 +1,6 @@
 # Identicon
 
-**TODO: Add description**
+**TODO: Github like identicon generator in elixir programming language**
 
 ## Follow Through
 
